@@ -1,0 +1,16 @@
+﻿@font-face {
+    font-family: 'AIranianSans';
+    src: url('AIranianSans.eot');
+    src: url('AIranianSans.eot') format('embedded-opentype'), url('AIranianSans.woff') format('woff'), url('AIranianSans.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AIranianSansLight';
+    src: url('IRANSansWeb_Light.eot');
+    src: url('IRANSansWeb_Light.eot') format('embedded-opentype'), url('IRANSansWeb_Light.woff') format('woff'), url('IRANSansWeb_Light.ttf') format('truetype');
+    src: url('IRANSansWeb(FaNum)_Light.ttf') format('truetype');
+}
+
+body {
+    font-family: AIranianSansLight,Tahoma
+}
